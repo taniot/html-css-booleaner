@@ -22,8 +22,36 @@ header {
   padding-top: 40px;
   padding-left: 10px;
   background-size: 28%;
+  margin-bottom: 20px;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
 }
 
 #logo {
   height: 50px;
+}
+
+/*
+-------------------
+Main
+-------------------
+*/
+
+.article-info {
+  color: #9b9b9b;
+}
+
+.author {
+  font-size: 18px;
+}
+
+.date {
+  font-size: 12px;
+}
+
+.author-name {
+  color: #41b6e9;
 }
