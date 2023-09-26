@@ -55,3 +55,17 @@ Main
 .author-name {
   color: #41b6e9;
 }
+
+/*
+-------------------
+Images
+-------------------
+*/
+
+.images {
+  margin-top: 20px;
+}
+
+.caption {
+  font-size: 11px;
+}
