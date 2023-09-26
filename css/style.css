@@ -1,0 +1,29 @@
+/*
+-------------------
+Reset
+-------------------
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+-------------------
+Header
+-------------------
+*/
+
+header {
+  background-color: #4ea0ff;
+  background-image: url('../img/pattern.png');
+  /* height: 100px; */
+  padding-top: 40px;
+  padding-left: 10px;
+  background-size: 28%;
+}
+
+#logo {
+  height: 50px;
+}
