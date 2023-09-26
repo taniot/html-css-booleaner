@@ -10,6 +10,16 @@ Reset
 }
 
 /*
+-----------------
+Common
+-----------------
+*/
+
+.space {
+  margin-top: 20px;
+}
+
+/*
 -------------------
 Header
 -------------------
@@ -63,9 +73,75 @@ Images
 */
 
 .images {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .caption {
   font-size: 11px;
+}
+
+/*
+-------------------
+Content
+-------------------
+*/
+
+.highlights {
+  background-color: yellow;
+}
+
+.info-varie {
+  list-style-position: inside;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
+}
+
+thead {
+  background-color: #20a9e5;
+  color: #ffffff;
+}
+
+.odd {
+  background-color: #b1e5f2;
+}
+
+.testo {
+  width: 50%;
+}
+
+td {
+  padding: 10px;
+}
+
+/*
+**********
+Footer
+**********
+*/
+
+h3.interessi {
+  color: #929292;
+}
+
+.box {
+  width: 250px;
+  height: 150px;
+  background-color: coral;
+  margin-bottom: 10px;
+  color: white;
+  font-size: 19px;
+  padding: 20px 10px 0px 10px;
+  font-weight: bold;
+  background-size: cover;
+}
+
+#screen {
+  background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+  background-image: url('../img/graph.jpg');
 }
